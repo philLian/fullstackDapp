@@ -1,0 +1,23 @@
+{
+  "devFiles": [
+    "static/development/dll/dll_f3f7704b6978a092f88e.js"
+  ],
+  "pages": {
+    "/_app": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/compaigns/show": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ],
+    "/compaigns/new": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
+    ]
+  }
+}
